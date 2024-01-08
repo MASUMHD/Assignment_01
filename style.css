@@ -265,34 +265,34 @@
     line-height: 32px;
 }
 
-.allsection{
+.all{
     width: 1280px;
     margin: auto;
-    position: relative
+    position: relative;
 }
 
-.section{
+.all-a{
     display: flex;
     
 }
-.boximage{
+.all-b{
     width: 50%;
     margin-right: 100px;
 }
-.firstgroup{
+.all-c{
     width: 50%;
     position: relative;
     z-index: -2;
 }
-.recimg1{
+.all-e{
     margin-left: 60px;
 }
-.groupimg{
+.all-d{
     position: absolute;
     top: 50px;
     left: -20px;
 }
-.bottomimg{
+.all-f{
     position: absolute;
     bottom: 5px;
     z-index: -1;
