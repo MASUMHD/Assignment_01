@@ -265,7 +265,7 @@
     line-height: 32px;
 }
 
-.Holidays-img{
+/* .Holidays-img{
     display: flex;
     margin: 10px 100px 0px 100px;
 }
@@ -281,6 +281,38 @@
     width: 429px;
     height: 433px;
     flex-shrink: 0;
+} */
+.allsection{
+    width: 1280px;
+    margin: auto;
+    position: relative
+}
+
+.section{
+    display: flex;
+    
+}
+.boximage{
+    width: 50%;
+    margin-right: 100px;
+}
+.firstgroup{
+    width: 50%;
+    position: relative;
+    z-index: -2;
+}
+.recimg1{
+    margin-left: 60px;
+}
+.groupimg{
+    position: absolute;
+    top: 50px;
+    left: -20px;
+}
+.bottomimg{
+    position: absolute;
+    bottom: 5px;
+    z-index: -1;
 }
 
             /* section = 7 */
