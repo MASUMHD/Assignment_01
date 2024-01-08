@@ -114,7 +114,7 @@
     height: 482px;
     background-color: #f09cca;
     margin: 80px auto;
-    border: 5px solid black;
+    border: 2px solid black;
 }
 .title{
     text-align: center;
@@ -166,6 +166,7 @@
 }
 .pic-A{
     margin-left: 5px;
+    margin-top: 5px;
 }
 
 .pic-A h6{
@@ -213,5 +214,128 @@
     transform: scale(1.03);
 }
 
+
+
+.new-f{
+    width: 1320px;
+    height: 582px;
+    background-color: #f09cca;
+    margin: 80px auto;
+    border: 2px solid black;
+    text-align: center;
+}
+.new-f img{
+    margin-top: 60px;
+}
+.news-A{
+    margin-top: 20px;
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 40px;
+}
+.news-B{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.news-C{
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+}
+.news-D{
+    margin-top: 50px;
+    width: 448px;
+    height: 40px;
+    border-radius: 50px;
+    background: #FFF;
+
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.hlw{
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+
+
+.YEAR{
+    width: auto;
+    height: 529px;
+    background: #070211;
+}
+.new-g{
+    display: flex;
+    margin-left: 100px;
+    gap: 700px;
+    color: #FFF;
+    margin-bottom: 30px;
+}
+.year-A{
+    margin-top: 100px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+}
+.year-B{
+    margin-top: 100px;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+}
+.year-f{
+    text-align: center;
+    margin-top: 30px;
+    gap: 50px;
+    margin-bottom: 30px;
+}
+.year-f img{
+    padding:20px;
+}
+
+
+
+
+.year-g{
+    display: flex;
+    color: #FFF;
+    margin-left: 100px;
+    margin-top: 50px;
+    gap: 1020px;
+    font-family: 'Inter', sans-serif;
+}
+.last{
+    font-size: 15px;
+    font-weight: 500;
+}
+.last-b{
+    font-size: 15px;
+    font-weight: 500;
+}
 
 
